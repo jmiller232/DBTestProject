@@ -4,7 +4,7 @@ CREATE TABLE [dbo].[Employee] (
     [MiddleName]    VARCHAR (100) NULL,
     [LastName]      VARCHAR (100) NOT NULL,
     [Department_ID] INT           NULL,
-    CONSTRAINT [PK_Employee] PRIMARY KEY CLUSTERED ([ID] ASC)
+    [Salary]        INT           NULL
 );
 
 
