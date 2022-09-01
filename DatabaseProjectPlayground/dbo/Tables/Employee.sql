@@ -10,3 +10,8 @@ CREATE TABLE [dbo].[Employee] (
 
 GO
 
+
+ALTER TABLE [dbo].[Employee]
+    ADD CONSTRAINT [PK_Employee] PRIMARY KEY CLUSTERED ([ID] ASC);
+GO
+
