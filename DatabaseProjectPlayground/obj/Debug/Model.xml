@@ -172,7 +172,7 @@
 		<Element Type="SqlView" Name="[dbo].[VW_Employee]">
 			<Property Name="QueryScript">
 				<Value><![CDATA[
-select * from Employee where id = 6]]></Value>
+select * from Employee where id = 7]]></Value>
 			</Property>
 			<Property Name="IsAnsiNullsOn" Value="True" />
 			<Relationship Name="Columns">
