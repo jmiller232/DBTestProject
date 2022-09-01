@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/i3ntE9+oPBgKSQ9munpqBNYAbuUEstBFexCX/NGWCQls5/EBrbLLyyAugNI+pPcN87wpJ1svHZYsAgACw7LFQ==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\miller\\Downloads\\DBTestProject\\DatabaseProjectPlayground\\DatabaseProjectPlayground.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\miller\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\miller\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

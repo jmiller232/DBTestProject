@@ -1,0 +1,10 @@
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\bin\Debug\DatabaseProjectPlayground.dacpac
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\obj\Debug\DatabaseProjectPlayground.sqlproj.AssemblyReference.cache
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\obj\Debug\DatabaseProjectPlayground.dll
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\obj\Debug\DatabaseProjectPlayground.pdb
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\bin\Debug\DatabaseProjectPlayground.dll
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\bin\Debug\DatabaseProjectPlayground.pdb
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\obj\Debug\Model.xml
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\obj\Debug\refactor.xml
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\obj\Debug\postdeploy.sql
+c:\Users\miller\Downloads\DBTestProject\DatabaseProjectPlayground\obj\Debug\predeploy.sql
